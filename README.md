@@ -76,5 +76,8 @@ Direct CBD recovery support broadly, prioritizing the segments most likely to re
 1. Run `cleaning_aggregation.sql` in MySQL (MySQL Workbench) against the two raw CLUE CSV files to reproduce `agg_business_density`.
 2. Open `DAR_Dashboard_Elio.pbix` in Power BI Desktop to view the full data model, DAX measures, and dashboard.
 
+## Self Q&A
+See [QA.md](./QA.md) for design-decision rationale and data-quality notes.
+
 ## About
 Built by Elio Nguyen as a personal portfolio project. https://www.linkedin.com/in/elio-nguyen-66a15b313/ 

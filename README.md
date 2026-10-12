@@ -77,4 +77,4 @@ Direct CBD recovery support broadly, prioritizing the segments most likely to re
 2. Open `DAR_Dashboard_Elio.pbix` in Power BI Desktop to view the full data model, DAX measures, and dashboard.
 
 ## About
-Built by Elio Nguyen as a personal portfolio project. [Add LinkedIn/GitHub/contact link here]
+Built by Elio Nguyen as a personal portfolio project. https://www.linkedin.com/in/elio-nguyen-66a15b313/ 
